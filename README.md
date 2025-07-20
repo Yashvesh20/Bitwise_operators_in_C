@@ -15,7 +15,7 @@ Algorithm:~>
 - Right Shift (b >> n) → Shift b by n positions and display
 - Display all results with proper labels
 - End
-Conclusion: C++ Bitwise Operators
+- Conclusion: C++ Bitwise Operators
 Studying and implementing bitwise operators in C++ deepens your understanding of how computers handle data at the binary level. These operators—such as &, |, ^, ~, <<, and >>—are powerful tools for tasks involving low-level data manipulation, performance optimization, and algorithmic efficiency.
 By experimenting with bitwise operations, you strengthen your grasp of:
 - Binary number systems
